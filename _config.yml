@@ -1,10 +1,10 @@
-title: 吴倩豪 Wu Qianhao
+title: 吴倩豪
 subtitle: 个人站
-description: 欢迎来到我的个人站~
+description: 多媒体分析，计算机视觉
 # 头像里面的标题
 avatarTitle: wqhIris
 # 头像里面的描述
-avatarDesc: 将成为优秀程序员的我
+avatarDesc: 不积跬步，无以至千里
 url: "http://wqhiris.github.io"
 
 comment:
@@ -39,7 +39,7 @@ highlighter: rouge
 textColor: #FF0000
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: clear
+cover_color: purple #clear
 
 # The blog button should not be removed.
 blog_button:
