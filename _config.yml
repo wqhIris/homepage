@@ -45,7 +45,7 @@ cover_color: purple #clear
 nav:
     - {title: 论文, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 博客主页, description: about, url: '/blog'}   
+    - {title: 博客主页, description: about, url: '/#blog'}   
 
 # The blog button should not be removed.
 about_button:
