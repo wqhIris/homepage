@@ -43,9 +43,9 @@ cover_color: purple #clear
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 论文, description: archive, url: '/archive'}   
-    - {title: 标签, description: tags, url: '/tags'}      
-    - {title: 博客主页, description: about, url: '/#blog'}   
+    - {title: 论文, description: 论文及代码, url: '/archive'}   
+    - {title: 标签, description: 分类, url: '/tags'}      
+    - {title: 博客主页, description: 我的博客, url: '/#blog'}   
 
 # The blog button should not be removed.
 about_button:
