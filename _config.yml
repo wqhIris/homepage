@@ -50,6 +50,7 @@ nav:
 # The blog button should not be removed.
 about_button:
     title: 关于我
+    description: 个人信息及联系方式
     
 
 # Pagination
