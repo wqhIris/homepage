@@ -5,7 +5,7 @@ title: 关于我
 
 目前为<a href='http://www.njust.edu.cn/'>南京理工大学</a><a href='http://cs.njust.edu.cn/main.htm'>计算机科学与工程学院</a><a href='https://imag-njust.net/'>智能媒体分析实验室</a>在读博士生，导师为<a href='https://imag-njust.net/jinhui-tang/'>唐金辉</a>教授。2015年6月于南昌大学取得工学学士学位。2019年2月至2020年2月在华为诺亚方舟实验室(深圳)实习。
 
-从事多媒体分析与计算机视觉相关的研究，目前主要关注人脸识别、语义分割、图像超分辨等方面。
+从事多媒体分析与计算机视觉相关的研究，目前主要关注人脸识别、语义分割、图像超分辨等方面。[<a href='https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F72GAouxsqHZy6VUO6wTkEHOtExEs8y7ekExKa8_e2Z2xWYv30hmRYPhq14Mione6Ilv-dJE-vCcuqrY8GeMYzK7xX4oNiQ97zvTMHSHZwTorxHJxQ&user=xc4cV7IAAAAJ'>前往谷歌学术</a>]
 
 联系方式：wuqianhaoiris@gmail.com
 
