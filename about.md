@@ -2,6 +2,12 @@
 layout: page
 title: 关于我 
 ---
+<html>
+<head>
+  <meta charset=utf-8 />
+  <link href="css/about.css" type="text/css" rel="stylesheet" media="print">
+</head>
+</html>
 
 南京理工大学计算机科学与工程学院<a href='https://imag-njust.net/'>智能媒体分析实验室</a>在读博士生，导师为唐金辉教授。2015年6月于南昌大学取得工学学士学位。2019年2月至2020年2月在华为诺亚方舟实验室(深圳)实习。从事多媒体分析与计算机视觉相关的研究，目前主要关注人脸识别、语义分割、图像超分辨等方面。
 
