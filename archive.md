@@ -9,7 +9,7 @@ header : 所有论文
 <table class="imgtable">
   <tr>
     <td>
-      <img src="/images/avatar.jpg" alt="PCM2017_partial_face_recog" width="300px" height="140px" />&nbsp;
+      <img src="/images/avatar.jpg" alt="PCM2017_partial_face_recog" width="300px" height="140px" />;
     </td>
     <td align="left">
       <p>
