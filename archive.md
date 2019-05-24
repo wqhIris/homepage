@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: page
 title : 论文
 header : 所有论文
 ---
