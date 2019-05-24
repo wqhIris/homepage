@@ -11,7 +11,7 @@ header : 所有论文
     <td>
       <img src="/images/avatar.jpg" alt="PCM2017_partial_face_recog" />
     </td>
-    <td align="left">
+    <td align="left" valign="middle">
       <p>
         <b>A Fast and General Method for Partial Face Recognition (oral)</b> <br />
         <i>Qianhao Wu</i>, Zechao Li <br />
