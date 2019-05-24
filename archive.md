@@ -8,6 +8,6 @@ header : 所有论文
 ### 2017
 - 
 ---
-![Image text]():Qianhao Wu, Zechao Li. A Fast and General Method for Partial Face Recognition. Pacific-Rim Conference on Multimedia (PCM), 2017. (oral)
+![Image text](https://raw.githubusercontent.com/wqhIris/wqhIris.github.io/master/images/avatar.jpg):Qianhao Wu, Zechao Li. A Fast and General Method for Partial Face Recognition. Pacific-Rim Conference on Multimedia (PCM), 2017. (oral)
 [<a href='https://link.springer.com/chapter/10.1007%2F978-3-319-77380-3_21'>pdf</a>]
 ---
