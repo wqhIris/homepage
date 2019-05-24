@@ -9,7 +9,7 @@
       <div class="nav_container">
          <nav class="nav-menu-item" style = "float:right">
             <i class="nav-menu-item">
-              <a href="/about" title="{{site.about_button.description}}" class="about_button">  {{site.about_button.title}}
+              <a href="/about" title="{{site.about_button.description}}" class="about-button">  {{site.about_button.title}}
               </a>
             </i>
             {% for item in site.nav %}
@@ -25,6 +25,13 @@
     </span>
     
     {% include side-panel.html %}
+
+    <div class="content-wrapper">
+        <div class="content-wrapper__inner">
+            {{ content }}
+            {% include footer.html %}
+        </div>
+    </div>
     
     {% include external.html %}
     
