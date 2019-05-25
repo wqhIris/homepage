@@ -20,7 +20,6 @@ url: "http://wqhiris.github.io"
 #    https://blog.csdn.net/weixin_34112208/article/details/87232126
 ##########################
 comment:
-    disqus: leopard
     gitalk: true
     gitalk_clientID: '29ca6c79e20086448a19'
     gitalk_Secret: '56c1a901674f2ad625759ca4c869fd4dd773ea75'
