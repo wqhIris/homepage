@@ -1,5 +1,4 @@
-<section class="post-comments">
-	<script>
+<script>
 		{% if site.comments.gitalk %}
 		var gitalk = new Gitalk({
 			clientID: '{{ site.comments.gitalk_clientID }}',
@@ -12,5 +11,4 @@
 		})
 		gitalk.render('disqus_thread')
 		 {% endif %}
-	</script>
-</section>
+</script>
