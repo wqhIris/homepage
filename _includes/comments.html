@@ -1,5 +1,5 @@
+{% if site.comments.gitalk %}
 <script>
-		{% if site.comments.gitalk %}
 		const gitalk = new Gitalk({
 			clientID: '{{ site.comments.gitalk_clientID }}',
 			clientSecret: '{{ site.comments.gitalk_Secret }}',
@@ -10,5 +10,5 @@
 			distractionFreeMode: '{{ site.comments.distractionFreeMode }}'  // Facebook-like distraction free mode
 		})
 		gitalk.render('gitalk-container')
-		{% endif %}
 </script>
+{% endif %}
