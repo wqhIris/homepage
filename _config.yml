@@ -12,9 +12,22 @@ url: "http://wqhiris.github.io"
 ##########################
 
 
+##########################，
+# 评论功能，借助gitalk插件（https://github.com/gitalk/gitalk）
+# 具体设置参考以下链接：
+#    https://www.jianshu.com/p/656e6101bf0f
+#    http://note.youdao.com/publicshare/?id=6ea132ba501b49b2928125a694cc9ad9#/
+#    https://blog.csdn.net/weixin_34112208/article/details/87232126
 ##########################
 comment:
     disqus: leopard
+    gitalk: true
+    gitalk_clientID: '29ca6c79e20086448a19'
+    gitalk_Secret: '56c1a901674f2ad625759ca4c869fd4dd773ea75'
+    gitalk_repo: 'wqhiris.github.io'
+    gitalk_owner: 'wqhiris'
+    gitalk_admin: 'wqhiris'
+    distractionFreeMode: true
 ##########################
 
 
