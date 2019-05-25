@@ -3,25 +3,25 @@ layout: page
 title: 关于我 
 ---
 
-目前为[南京理工大学]<http://www.njust.edu.cn/>[计算机科学与工程学院]<http://cs.njust.edu.cn/main.htm>[智能媒体分析实验室]<https://imag-njust.net/>在读博士生，导师为[唐金辉]<https://imag-njust.net/jinhui-tang/>教授。2015年6月于南昌大学取得工学学士学位。2019年2月至2020年2月在华为诺亚方舟实验室(深圳)实习。
+目前为<a href='http://www.njust.edu.cn/'>南京理工大学</a><a href='http://cs.njust.edu.cn/main.htm'>计算机科学与工程学院</a><a href='https://imag-njust.net/'>智能媒体分析实验室</a>在读博士生，导师为<a href='https://imag-njust.net/jinhui-tang/'>唐金辉</a>教授。2015年6月于南昌大学取得工学学士学位。2019年2月至2020年2月在华为诺亚方舟实验室(深圳)实习。
 
-从事多媒体分析与计算机视觉相关的研究，目前主要关注人脸识别、语义分割、图像超分辨等方面。[[前往谷歌学术主页]<https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F72GAouxsqHZy6VUO6wTkEHOtExEs8y7ekExKa8_e2Z2xWYv30hmRYPhq14Mione6Ilv-dJE-vCcuqrY8GeMYzK7xX4oNiQ97zvTMHSHZwTorxHJxQ&user=xc4cV7IAAAAJ>]
+从事多媒体分析与计算机视觉相关的研究，目前主要关注人脸识别、语义分割、图像超分辨等方面。[<a href='https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F72GAouxsqHZy6VUO6wTkEHOtExEs8y7ekExKa8_e2Z2xWYv30hmRYPhq14Mione6Ilv-dJE-vCcuqrY8GeMYzK7xX4oNiQ97zvTMHSHZwTorxHJxQ&user=xc4cV7IAAAAJ'>前往谷歌学术主页</a>]
 
 联系方式：wuqianhaoiris@gmail.com 或 wqhiris@163.com
 
 ### 新闻
-- 2017.09.28 >> 参加PCM 2017就论文_A Fast and General Method for Partial Face Recognition_进行__oral presentation__
+- 2017.09.28 >> 参加PCM 2017就论文 _A Fast and General Method for Partial Face Recognition_ 进行 __oral presentation__
 
 
 ### 教育经历
 #### __南京理工大学__                                         2017.9 -          江苏, 南京
 - 硕博连读博士阶段，博二
-- 导师：[唐金辉]<https://imag-njust.net/jinhui-tang/>教授
+- 导师： [唐金辉]<https://imag-njust.net/jinhui-tang/> 教授
 - 计算机科学与技术专业
 
 #### __南京理工大学__                                         2015.9 - 2017.7   江苏, 南京
 - 硕博连读硕士阶段                                                    
-- 导师：[李泽超]<https://imag-njust.net/ZechaoLi/>教授
+- 导师： [李泽超]<https://imag-njust.net/ZechaoLi/> 教授
 - 计算机应用技术专业
 
 #### __南昌大学__                                             2011.9 - 2015.7   江西, 南昌
