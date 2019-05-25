@@ -7,7 +7,7 @@ title: 关于我
 
 从事多媒体分析与计算机视觉相关的研究，目前主要关注人脸识别、语义分割、图像超分辨等方面。[<a href='https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F72GAouxsqHZy6VUO6wTkEHOtExEs8y7ekExKa8_e2Z2xWYv30hmRYPhq14Mione6Ilv-dJE-vCcuqrY8GeMYzK7xX4oNiQ97zvTMHSHZwTorxHJxQ&user=xc4cV7IAAAAJ'>前往谷歌学术主页</a>]
 
-联系方式：wuqianhaoiris@gmail.com
+联系方式：wuqianhaoiris@gmail.com 或 wqhiris@163.com
 
 ### 教育经历
 #### __南京理工大学__                                         2017.9 -          江苏, 南京
