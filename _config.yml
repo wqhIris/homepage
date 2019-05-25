@@ -17,7 +17,8 @@ url: "http://wqhiris.github.io"
 # 具体设置参考以下链接：
 #    https://www.jianshu.com/p/656e6101bf0f
 #    http://note.youdao.com/publicshare/?id=6ea132ba501b49b2928125a694cc9ad9#/
-#    https://blog.csdn.net/weixin_34112208/article/details/87232126
+# 注意，其中id参数的设置，就是用gitalk官网给定的那个值；也可以先引用一个md5.js，然后使用md5（location pathname）作为id值，以避免因路径字符串太长而无法评论
+# 注意，这里用的标记是“comment”而不是“comments”
 ##########################
 comment:
     gitalk: true
