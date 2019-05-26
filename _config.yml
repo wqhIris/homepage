@@ -70,7 +70,7 @@ cover_color: purple #clear
 nav:
     - {title: 论文, description: 论文及代码, url: '/archive'}   
     - {title: 标签, description: 分类, url: '/tags'}      
-    - {title: 博客主页, description: 我的博客, url: '/#blog'}   
+    - {title: 博客主页, description: 我的博客, url: '/blog'}   
 # The about_button should not be removed.
 about_button:
     title: 关于我
